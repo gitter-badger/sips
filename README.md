@@ -1,5 +1,7 @@
 # Scala Documentation #
 
+[![Join the chat at https://gitter.im/scalameta/sips](https://badges.gitter.im/scalameta/sips.svg)](https://gitter.im/scalameta/sips?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository contains the source for the Scala documentation website, as well as the source for "Scala Improvement Process" (SIP) documents.
 
 ## Contributing ##
